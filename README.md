@@ -1,4 +1,4 @@
-![logo](https://github.com/AnujKumarHub/AnujKumarHub/blob/main/Banner.png)
+![logo](https://github.com/AnujKumarHub/AnujKumarHub/blob/main/final_pro.png)
 <h1 align="center">Hi 👋, I'm Anuj Kumar</h1>
 Talks about #Sql, #datavisualisation, Tableau, PowerBI, #datascience, #dataanalytics, and #Machinelearning
 <h3 align="center">A passionate Data Analyst from India</h3>
